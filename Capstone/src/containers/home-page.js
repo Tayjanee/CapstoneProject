@@ -18,7 +18,7 @@ const Home = () => {
   return (
     <div>
       <Header />
-      <Footer />
+
       {/* <h1>Image Slider</h1> */}
 
       {/* <form onSubmit={handleSubmit}>
@@ -27,6 +27,7 @@ const Home = () => {
       </form> */}
       <h1 className="park-list-header">Explore A National Park: </h1>
       <ParksList />
+      <Footer />
     </div>
   );
 };
