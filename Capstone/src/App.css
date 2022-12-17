@@ -224,48 +224,22 @@ h6 {
 
 
 footer {
-  position: fixed;
+  position: relative;
   background-color:rgba(18, 13, 13, 0.573);
   text-align: center;
   margin-top: auto;
-  padding: 8px;
+  padding: 12px;
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 8px;
+  padding: 12px;
   text-align: center;
 }
 .button {
-  background-color: blue;
+  padding:8px;
+  background-color: black;
 }
 
-.social-container {
-  background: #eee;
-  padding: 25px 50px;
-}
-a.social {
-  margin: 0 1rem;
-  transition: transform 250ms;
-  display: inline-block;
-}
-a.social:hover {
-  transform: translateY(-2px);
-}
-a.youtube {
-  color: #eb3223;
-}
-
-a.facebook {
-  color: #4968ad;
-}
-
-a.twitter {
-  color: #49a1eb;
-}
-
-a.instagram {
-  color: black;
-}
 
 .camp-image {
   max-width: 150px;
