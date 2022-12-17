@@ -40,9 +40,9 @@ const Footer = () => {
               </NavLink>
             </li>
           </ul>
+          {`Copyright © ANNIETAYLORJOSEPH ${year}`}
         </div>
       </div>
-      {`Copyright © ANNIETAYLORJOSEPH ${year}`}
     </footer>
   );
 };

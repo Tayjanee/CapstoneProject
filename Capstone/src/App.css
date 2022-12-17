@@ -223,7 +223,7 @@ h6 {
 }
 
 
-footer {
+.footer-header{
   position: relative;
   background-color:rgba(18, 13, 13, 0.573);
   text-align: center;
